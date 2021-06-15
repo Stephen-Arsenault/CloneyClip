@@ -22,7 +22,7 @@ Cloney Clip is non-commercial open source and made available under the CC BY-SA 
  3. Order the 3D printed shell ([Shapeways](http://shpws.me/SInZ)) or [print your own](/3d-files/) (FDM not recommended).
 
 ## Special Thanks
-Special thanks to the following members of the Open Retro SCSI community ((Discord)[https://discord.gg/V23FeeF3m9]).
+Special thanks to the following members of the Open Retro SCSI community ([Discord](https://discord.gg/V23FeeF3m9)).
  1. Xander
  2. GeekyBit
  3. Androda
