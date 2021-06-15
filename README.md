@@ -1,9 +1,27 @@
+
+![Cloney Clip Banner Image](/images/cloneyclip_banner.jpg)
+[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
 # CloneyClip
-CloneyClip is an open source replacement for Killy Clips.
+CloneyClip is an open source alternative to the increasingly rare Killy Clip. This design is simply placed on top of the target chip and clipped into place with the retaining shell.
+
+![Cloney Clip Beauty Shot](/images/cloneyclip_beautyshot.jpg)
+
+## Assembly
+Instructions for assembly are straightforward — in fact, it's so simple they're marked on the bottom of the PCB.
+
+ 1. Insert [Pogo Pins](https://www.amazon.com/gp/product/B07FPFBFV3/) from the silkscreened "Cloney Clip".
+ 2. Apply flux to installed pins and heat with soldering iron at 370° Celsius (700° Fahrenheit).
+ 3. Attach your wires, insert the assembly [into the shell](http://shpws.me/SInZ), and clip it in place.
+
+## Manufacturing
+Cloney Clip is non-commercial open source and made available under the CC BY-SA 4.0 license. Generally speaking, if you want to make a few to give to your friends or use for your own use then you don't need to worry about the license. If you want to sell them you will need permission.
+
+ 1. Simply visit [the project's open hardware page](https://oshwlab.com/stephenarsenault/cloney-clip_copy) and place an order on JLCPCB.
+ 2. Make sure to buy the correct Pogo Pins ([Amazon](https://www.amazon.com/gp/product/B07FPFBFV3/)) ([Pogo Pin sheet](/images/cloneyclip_pogo_diagram.jpg))
+ 3. Order the 3D printed shell ([Shapeways](http://shpws.me/SInZ)) or [print your own](/3d-files/) (FDM not recommended).
 
 ## License
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
 
