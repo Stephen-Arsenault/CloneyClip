@@ -19,7 +19,7 @@ Cloney Clip is non-commercial open source and made available under the CC BY-SA 
 
  1. Simply visit [the project's open hardware page](https://oshwlab.com/stephenarsenault/cloney-clip_copy) and place an order on JLCPCB.
  2. Make sure to buy the correct Pogo Pins ([Amazon](https://www.amazon.com/gp/product/B07FPFBFV3/)) ([Pogo Pin sheet](/images/cloneyclip_pogo_diagram.jpg))
- 3. Order the 3D printed shell ([Shapeways](http://shpws.me/SInZ)) or [print your own](/3d-files/) (FDM not recommended).
+ 3. Order the 3D printed shell ([Shapeways](http://shpws.me/SInZ)) or [print your own](/3d%20files) (FDM not recommended).
 
 ## Special Thanks
 Special thanks to the following members of the Open Retro SCSI community ([Discord](https://discord.gg/V23FeeF3m9)).
