@@ -15,11 +15,18 @@ Instructions for assembly are straightforward — in fact, it's so simple they'r
  3. Attach your wires, insert the assembly [into the shell](http://shpws.me/SInZ), and clip it in place.
 
 ## Manufacturing
-Cloney Clip is non-commercial open source and made available under the CC BY-SA 4.0 license. Generally speaking, if you want to make a few to give to your friends or use for your own use then you don't need to worry about the license. If you want to sell them you will need permission.
+Cloney Clip is non-commercial open source and made available under the CC BY-SA 4.0 license. Generally speaking, if you want to make a few to give to your friends or for your own use then you don't need to worry about the license. If you want to sell them you will need permission.
 
  1. Simply visit [the project's open hardware page](https://oshwlab.com/stephenarsenault/cloney-clip_copy) and place an order on JLCPCB.
  2. Make sure to buy the correct Pogo Pins ([Amazon](https://www.amazon.com/gp/product/B07FPFBFV3/)) ([Pogo Pin sheet](/images/cloneyclip_pogo_diagram.jpg))
  3. Order the 3D printed shell ([Shapeways](http://shpws.me/SInZ)) or [print your own](/3d-files/) (FDM not recommended).
+
+## Special Thanks
+Special thanks to the following members of the Open Retro SCSI community ([Discord](https://discord.gg/V23FeeF3m9)).
+ 1. Xander
+ 2. GeekyBit
+ 3. Androda
+ 4. Zone66x
 
 ## License
 This work is licensed under a
