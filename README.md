@@ -1,7 +1,7 @@
 
 
 ![Cloney Clip Banner Image](/images/cloneyclip_banner.jpg)
-[![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 # CloneyClip
 CloneyClip is an open source alternative to the increasingly rare Killy Clip. This design is simply placed on top of the target chip and clipped into place with the retaining shell.
@@ -33,10 +33,4 @@ Special thanks to the following members of the Open Retro SCSI community ([Disco
 
 ## License
 This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
-
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
-
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+[![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
