@@ -16,7 +16,7 @@ Instructions for assembly are straightforward — in fact, it's so simple they'r
  3. Attach your wires, insert the assembly [into the shell](http://shpws.me/SInZ), and clip it in place.
 
 ## Manufacturing
-Cloney Clip is non-commercial open source and made available under the CC BY-SA 4.0 license. Generally speaking, if you want to make a few to give to your friends or for your own use then you don't need to worry about the license. If you want to sell them you will need permission.
+Cloney Clip is non-commercial open source and made available under the CC BY-NC-SA 4.0 license. Generally speaking, if you want to make a few to give to your friends or for your own use then you don't need to worry about the license. If you want to sell them you will need permission.
 
  1. Simply visit [the project's open hardware page](https://oshwlab.com/stephenarsenault/cloney-clip_copy) and place an order on JLCPCB
 	 - 2x20 Must be 0.8mm board thickness for a probe distance of 1.75mm from top of chip to top of pin.
